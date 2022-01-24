@@ -6,8 +6,8 @@
    "author": "Atlas",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion": "2.0.0",
-   "manifest": "https://www.dropbox.com/s/kxohm9tjq7626l1/module.json?dl=1",
-   "download": "https://www.dropbox.com/s/sl1q4nahr1yvhs1/SharedData.zip?dl=1",
+   "manifest": "https://github.com/NSFerrer/SharedData/raw/main/module.json",
+   "download": "https://github.com/NSFerrer/SharedData/raw/main/SharedData.zip",
    "packs": [
       {
          "name": "Pack",
