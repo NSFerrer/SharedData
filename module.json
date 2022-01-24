@@ -1,0 +1,19 @@
+{
+   "name": "SharedData",
+   "title": "Shared Data",
+   "description": "The shared module makes my content accessible from all worlds I create",
+   "version": "1.0.0",
+   "author": "Atlas",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion": "2.0.0",
+   "manifest": "https://www.dropbox.com/s/kxohm9tjq7626l1/module.json?dl=1",
+   "download": "https://www.dropbox.com/s/sl1q4nahr1yvhs1/SharedData.zip?dl=1",
+   "packs": [
+      {
+         "name": "Pack",
+         "label": "pack",
+         "path": "./packs/Pack.db",
+         "entity": "Scene"
+      }
+   ]
+}
